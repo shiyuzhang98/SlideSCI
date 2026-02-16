@@ -5,3 +5,6 @@ SlideSCI/publish/
 packages/
 node_modules/
 pnpm-lock.yaml
+dist/
+*.js.map
+.DS_Store
